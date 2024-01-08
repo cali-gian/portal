@@ -1,5 +1,26 @@
 [
   {
+    "id": "codex",
+    "name": "CodeX",
+    "oneLiner": "No-code solutions wor web3",
+    "description": "CodeX is a no-code platform for easy blockchain DApp development, offering tools for front-end, back-end, and smart contracts. It democratizes web3 creation, empowering everyone to build on multi-chains and making web3 accessible to all.",
+    "website": "https://codexchain.xyz/home",
+    "logo": "/img/showcase/codex_logo.webp",
+    "screenshots": [
+      "/img/showcase/codex_screenshot.webp"
+    ],
+    "display": "Normal",
+    "stats": "20+ Blockchain Partners",
+    "tags": [
+      "AI",
+      "Tools / Infrastructure"
+    ],
+    "usesInternetIdentity": true,
+    "github": "https://github.com/CodeXChainOfficial/ICP_Master/tree/master",
+    "twitter": "https://twitter.com/codexchain",
+    "youtube": "https://www.youtube.com/channel/UCjwo-9Yj7NQSmSqiY6FvEdw",
+  },
+  {
     "id": "dscvr",
     "name": "DSCVR",
     "oneLiner": "Social portals, community airdrops, crypto tipping on-chain",
